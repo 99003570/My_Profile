@@ -1,5 +1,5 @@
 # Sanidya Sharan
-99003508  
+99003570  
 LTTS Intern
 
 ## Technologies Learned:
@@ -45,17 +45,16 @@ LTTS Intern
 
 [Hackerrank Caertificate](https://www.hackerrank.com/certificates/065874f1cb17)
 
-![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+![hackerRankC#](https://github.com/99003570/My_Profile/blob/main/Images/C%23(Basic)%20Certification.png)
 
 ## Links
 
-[Azure Repositories](https://dev.azure.com/rishabhsoni0145)
+[Azure Repositories](https://dev.azure.com/sanidyasharan)
 
-[Github Repositories](https://github.com/99003508)
+[Github Repositories]https://github.com/99003570?tab=repositories
 
 ## Projects:
 
-1.  [DemoKart Console APP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_App)
-2.  [DemoKart WebAPP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_WebApp)
-3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
-4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
+1.  [DemoKart Console APP](https://dev.azure.com/sanidyasharan/_git/99003570_DemoKart_App)
+2.  [Embadded Lab Management System API](https://dev.azure.com/sanidyasharan/_git/99003570_Emb_Lab_Mgmt)
+3.  [Embadded Lab Management System WebApp](https://dev.azure.com/sanidyasharan/_git/99003570_MVC_GET_POST)
