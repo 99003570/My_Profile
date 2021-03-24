@@ -37,13 +37,13 @@ LTTS Intern
 ![Capture](https://user-images.githubusercontent.com/78849691/111938939-0f194d80-8af1-11eb-98aa-1c6867392135.JPG)
 
 ## Microsoft Badges 
-[Achievements](https://docs.microsoft.com/en-us/users/rishabhsoni-1968/achievements)
+[Achievements](https://docs.microsoft.com/en-us/users/sanidyasharan-0817/achievements)
 
 ![Badges_and_Trophies](https://user-images.githubusercontent.com/78849691/111939361-15f49000-8af2-11eb-913a-7bbb5ff89d38.JPG)
 
 ## Certification
 
-[Hackerrank Caertificate](https://www.hackerrank.com/certificates/065874f1cb17)
+[Hackerrank Caertificate](https://www.hackerrank.com/certificates/620493515b83)
 
 ![hackerRankC#](https://github.com/99003570/My_Profile/blob/main/Images/C%23(Basic)%20Certification.png)
 
