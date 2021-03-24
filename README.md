@@ -51,7 +51,7 @@ LTTS Intern
 
 [Azure Repositories](https://dev.azure.com/sanidyasharan)
 
-[Github Repositories]https://github.com/99003570?tab=repositories
+[Github Repositories](https://github.com/99003570?tab=repositories)
 
 ## Projects:
 
